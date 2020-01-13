@@ -1,3 +1,6 @@
+>**NOTE:<br/>**
+> This fork isn't maintained by Sauce Labs (anymore)
+
 ## appium-ios-simulator
 
 [![NPM version](http://img.shields.io/npm/v/appium-ios-simulator.svg)](https://npmjs.org/package/appium-ios-simulator)
